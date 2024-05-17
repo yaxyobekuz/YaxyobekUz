@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=Assalomu+alaykum👋;Men+frontend+dasturchisiman!;)](#)
-
 <!-- developer icons -->
 <div align="center">
+  <h2>Texnalogiyalar</h2>
+<div>
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
   <img width="15" />
@@ -14,6 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="55" alt="tailwindcss logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="55" alt="tailwindcss logo" />
+</div>
+  
 </div>
 
 
