@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=Assalomu+alaykum;Men+frontend+dasturchisiman;)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=Assalomu+alaykum;Men+frontend+dasturchisiman!;)](#)
 
 <!-- developer icons -->
 <div align="center">
@@ -18,7 +18,7 @@
 
 
 <!-- snake -->
-<picture>
+<picture align="center">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
