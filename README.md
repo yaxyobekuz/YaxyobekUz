@@ -23,8 +23,6 @@ I'm a **Frontend Developer** passionate about building modern web applications. 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaxyobekuz&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yaxyobekuz&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
 ### 🌐 Connect with me:
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=netlify&logoColor=white)](https://yaxyobekk.uz/en)
