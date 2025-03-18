@@ -28,6 +28,6 @@ I'm a **Frontend Developer** passionate about building modern web applications. 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=netlify&logoColor=white)](https://yaxyobekk.uz/en)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mryaxyobek)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yaxyobekh.uz)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pubgn9642@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:info@yaxyobekk.uz)
 
 🚀 **Let's build something amazing!**
