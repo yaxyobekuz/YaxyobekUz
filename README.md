@@ -1,4 +1,4 @@
-## Hi there, I'm Yaxyobek! 👋
+## Hi there, I'm Yaxyobek! 👋 ![](https://komarev.com/ghpvc/?username=yaxyobekuz&color=blueviolet)
 
 I'm a **Frontend Developer** passionate about building modern web applications. I also develop **Telegram bots** using **Apps Script** and **Node.js**.
 
