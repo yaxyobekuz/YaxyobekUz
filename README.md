@@ -19,8 +19,6 @@ I'm a **Frontend Developer** passionate about building modern web applications. 
 
 ### 🔥 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaxyobekuz&layout=compact&theme=radical)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaxyobekuz&show_icons=true&theme=radical)
 
 ### 🌐 Connect with me:
